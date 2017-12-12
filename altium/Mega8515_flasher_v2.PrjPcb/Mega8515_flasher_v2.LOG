@@ -1,0 +1,104 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\Users\ZephRay\Documents\GitHub\gbcartflasher\eagle\Mega8515_flasher_v2.brd
+    Analyzing data of C:\Users\ZephRay\Documents\GitHub\gbcartflasher\eagle\Mega8515_flasher_v2.brd
+    Load settings
+    Load layers 113
+    Load Library "atmel"
+    Load Packages 1
+    Load Library "SparkFun-Connectors"
+    Load Packages 1
+    Load Library "SparkFun-Capacitors"
+    Load Packages 3
+    Load Library "SparkFun-Resistors"
+    Load Packages 1
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "alex"
+    Load Packages 1
+    Load Library "Mega8515_flasher"
+    Load Packages 2
+    Load Library "SparkFun-DigitalIC"
+    Load Packages 1
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\ZephRay\Documents\GitHub\gbcartflasher\eagle\Mega8515_flasher_v2.sch
+    Analyzing data of C:\Users\ZephRay\Documents\GitHub\gbcartflasher\eagle\Mega8515_flasher_v2.sch
+    Load settings
+    Load layers 113
+    Load schematic
+    Load Libraries 9
+    Load Library "atmel"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-Connectors"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-Capacitors"
+    Load Packages 15
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "SparkFun"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "SparkFun-Resistors"
+    Load Packages 15
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-LED"
+    Load Packages 9
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "alex"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Mega8515_flasher"
+    Load Packages 18
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "SparkFun-DigitalIC"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 33
+    Load Sheets 1
+EndSection
+
+Section : Analyze Document - C:\Users\ZephRay\Documents\GitHub\gbcartflasher\eagle\simpleROM.brd
+    Analyzing data of C:\Users\ZephRay\Documents\GitHub\gbcartflasher\eagle\simpleROM.brd
+    Load settings
+    Load layers 122
+    Load Library "gameboy"
+    Load Packages 2
+    Load Library "Mega8515_flasher"
+    Load Packages 2
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\ZephRay\Documents\GitHub\gbcartflasher\eagle\simpleROM.sch
+    Analyzing data of C:\Users\ZephRay\Documents\GitHub\gbcartflasher\eagle\simpleROM.sch
+    Load settings
+    Load layers 122
+    Load schematic
+    Load Libraries 2
+    Load Library "gameboy"
+    Load Packages 6
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "Mega8515_flasher"
+    Load Packages 29
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 11
+    Load Sheets 1
+EndSection
